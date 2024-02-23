@@ -62,8 +62,6 @@ Public Class clsTbldefectinfo
         End Set
     End Property
 
-
-
     ''' <summary>
     ''' 编织轮换代码
     ''' </summary>
